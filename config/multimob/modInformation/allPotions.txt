@@ -45,6 +45,10 @@ wizardry:suffocate
 wizardry:bouncing
 wizardry:time_lcok
 wizardry:grace
+mowziesmobs:suns_blessing
+mowziesmobs:geomancy
+mowziesmobs:frozen
+mowziesmobs:poison_resist
 twilightforest:frosted
 tconstruct:carry
 tconstruct:enderference
