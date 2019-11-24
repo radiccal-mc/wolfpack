@@ -1,0 +1,14 @@
+# Minecraft instance specific folders
+resourcepacks/
+saves/
+screenshots/
+server-resource-packs/
+texturepacks/
+minecraftinstance.json
+options.txt
+usercache.json
+usernamecache.json
+
+# Logs
+logs/
+*.log
