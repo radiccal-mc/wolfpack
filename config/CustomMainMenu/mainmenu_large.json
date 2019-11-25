@@ -143,8 +143,6 @@
             "height" : 20,
 			"imageWidth" : 100,
 			"imageHeight" : 50,
-			"imageWidth" : 100,
-			"imageHeight" : 50,
 			"alignment" : "left_center",
             "action" : 
             {
