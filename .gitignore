@@ -15,6 +15,7 @@ mputils/
 .mixin.out/
 config/InvTweaks.cfg
 config/splash.properties
+config/jei/worldSettings.cfg
 
 # Logs
 logs/
