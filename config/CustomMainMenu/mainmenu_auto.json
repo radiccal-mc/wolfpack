@@ -24,7 +24,17 @@
 	},
     
     "buttons":
-    {     
+    {    
+        "refresh":
+        {
+            "text": "",
+            "posX" : -154,
+            "posY" : 132,
+            "width" : 20,
+            "height" : 20
+
+        
+        },  
 		"singleplayer":
         {
             "text" : "Singleplayer",
