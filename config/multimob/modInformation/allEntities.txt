@@ -81,6 +81,12 @@ minecraft:llama_spit
 minecraft:parrot
 minecraft:villager
 minecraft:ender_crystal
+quark:flat_item_frame
+quark:leash_knot
+quark:colored_item_frame
+quark:glass_item_frame
+quark:seat
+quark:gravisand
 quark:stoneling
 quark:archaeologist
 quark:foxhound
@@ -90,12 +96,6 @@ quark:frog
 quark:pirate
 quark:crab
 quark:wraith
-quark:gravisand
-quark:flat_item_frame
-quark:leash_knot
-quark:colored_item_frame
-quark:glass_item_frame
-quark:seat
 quark:pickarang
 quark:arrow_ender
 quark:arrow_explosive
