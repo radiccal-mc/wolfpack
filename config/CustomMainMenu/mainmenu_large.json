@@ -16,8 +16,8 @@
             "image" : "mainmenu:textures/logo.png",
             "posX" : 50,
             "posY" : 0,
-            "width" : 20,
-            "height" : 10,
+            "width" : 200,
+            "height" : 100,
             "alignment" : "top_left"
         }
 	
