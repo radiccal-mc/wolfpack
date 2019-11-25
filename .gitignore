@@ -8,6 +8,13 @@ minecraftinstance.json
 options.txt
 usercache.json
 usernamecache.json
+bendspacks/
+journeymap/
+mputils/
+.ReAuth.cfg
+.mixin.out/
+config/InvTweaks.cfg
+config/splash.properties
 
 # Logs
 logs/
