@@ -1,0 +1,10 @@
+setIcon(<minecraft:chest>)
+setTitle("Storage")
+setDescription("When the inventory just doesn't cut it anymore")
+setBackground("minecraft:textures/gui/advancements/backgrounds/adventure.png")
+setAnnounceToChat(false)
+setPos(10,10)
+
+// On crafted
+criteria = addCriteria("clickedBlock", "triumph:right_click_block")
+criteria.setBlock(<minecraft:chest>)

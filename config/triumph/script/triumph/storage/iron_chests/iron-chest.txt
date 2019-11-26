@@ -1,0 +1,10 @@
+setIcon(<ironchest:iron_chest:0>)
+setTitle("Iron Age")
+setDescription("Right-click an iron chest.")
+addParent("triumph:storage/root")
+alwaysVisible()
+setPos(43,43)
+
+// On crafted
+criteria = addCriteria("clickedBlock", "triumph:right_click_block")
+criteria.setItem(<ironchest:iron_chest:0>)

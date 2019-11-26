@@ -8,6 +8,8 @@
 - set research system
 - set clues system
 - set crops system
+- add "Together forever" mod to sync advancements
+- add command that automatically adds all team commands
 
 IDEA!
     - Gate Endgame Stuff
@@ -20,7 +22,10 @@ IDEA!
             - Signals mod for signals
 
 = STORAGE
-- Iron Chests - Mod, Advancements, Tweaks
+
+> Items with a ! Prefix are marked as done.
+
+- Iron Chests - !Mod, !Advancements, Tweaks
 - Storage Drawers - Mod, Advancements, Tweaks
 - Arcane Archives - Mod, Advancements, Tweaks
 - Colossal Chests* - Mod, Advancements, Tweaks

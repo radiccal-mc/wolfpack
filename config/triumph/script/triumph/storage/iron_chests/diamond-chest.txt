@@ -1,0 +1,10 @@
+setIcon(<ironchest:iron_chest:2>)
+setTitle("Looks better from the outside")
+setDescription("Right-click a diamond chest.")
+addParent("triumph:storage/iron_chests/gold-chest")
+alwaysVisible()
+setPos(109,43)
+
+// On crafted
+criteria = addCriteria("clickedBlock", "triumph:right_click_block")
+criteria.setItem(<ironchest:iron_chest:2>)
