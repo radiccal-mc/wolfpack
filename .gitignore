@@ -16,6 +16,7 @@ mputils/
 config/InvTweaks.cfg
 config/splash.properties
 config/jei/worldSettings.cfg
+icon.png
 
 # Logs
 logs/
