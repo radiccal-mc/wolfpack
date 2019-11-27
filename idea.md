@@ -4,6 +4,7 @@
     - "From the grounds up" for researching endgame stuff
     - Exclusively craft endgame content in a extended crafting table
         - but only OP blocks, not crafting items
+    - gate mid- and endgame mods by having their recipes require items that can only be crafted with mods from early-game
 
 # Multiplayer
 
