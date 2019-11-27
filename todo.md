@@ -137,6 +137,8 @@
         - Add advancements
 - Magneticraft
     - Add advancements
+- Gadgetry
+    - Add advancements
 - Ranged Pumps
     - Add advancements
 - RFTools
