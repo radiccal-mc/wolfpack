@@ -1,0 +1,18 @@
+{
+  "version": "1.5.4:release:0",
+  "main": {
+    "external_config": true,
+    "custom_update_checker": false,
+    "transformers_file": false,
+    "settings_tooltips": true
+  },
+  "settings": {
+    "enable_autosave": true,
+    "settings_overlay": true,
+    "tiles_overlay": true
+  },
+  "plants": {
+    "smoke_over_time": false,
+    "smoke_on_bonemeal": true
+  }
+}

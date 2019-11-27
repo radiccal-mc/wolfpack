@@ -1,0 +1,12 @@
+setIcon(<ironchest:wood_iron_chest_upgrade>)
+setTitle("Iron Chests")
+setDescription("Recommended for early game.")
+setCompletedIconColor(128, 0, 255)
+setCompletedTitleColor(128, 0, 255)
+addParent("triumph:storage/root")
+alwaysVisible()
+setPos(33,33)
+setAnnounceToChat(false)
+
+// On Load
+addCriteria("start", "minecraft:location")

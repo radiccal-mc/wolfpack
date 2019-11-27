@@ -1,0 +1,12 @@
+setIcon(<ironchest:iron_chest:6>)
+setTitle("Creeper-Safe™")
+setDescription("Open a obsidian chest.")
+addParent("triumph:storage/iron_chests/diamond-chest")
+alwaysVisible()
+setPos(165,33)
+setAnnounceToChat(false)
+setShowToast(true)
+
+// On crafted
+criteria = addCriteria("clickedBlock", "triumph:right_click_block")
+criteria.setItem(<ironchest:iron_chest:6>)

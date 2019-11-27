@@ -1,0 +1,12 @@
+setIcon(<ironchest:iron_chest:5>)
+setTitle("Privacy Invasion")
+setDescription("Open a crystal chest.")
+addParent("triumph:storage/iron_chests/diamond-chest")
+alwaysVisible()
+setPos(165,66)
+setAnnounceToChat(false)
+setShowToast(true)
+
+// On crafted
+criteria = addCriteria("clickedBlock", "triumph:right_click_block")
+criteria.setItem(<ironchest:iron_chest:5>)

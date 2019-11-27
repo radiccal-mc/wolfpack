@@ -1,0 +1,12 @@
+setIcon(<ironchest:iron_chest:0>)
+setTitle("Iron Age")
+setDescription("Open an iron chest.")
+addParent("triumph:storage/iron_chests/init")
+alwaysVisible()
+setPos(66,33)
+setAnnounceToChat(false)
+setShowToast(true)
+
+// On crafted
+criteria = addCriteria("clickedBlock", "triumph:right_click_block")
+criteria.setItem(<ironchest:iron_chest:0>)

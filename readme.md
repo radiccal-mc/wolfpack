@@ -2,5 +2,4 @@
 
 Your server friendly, multiplayer friendly, all-in-one kitchensink minecraft modpack.
 
-
-hi again :D
+This is a test to see if git works.

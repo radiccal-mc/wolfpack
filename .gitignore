@@ -1,0 +1,23 @@
+# Minecraft instance specific folders
+resourcepacks/
+saves/
+screenshots/
+server-resource-packs/
+texturepacks/
+minecraftinstance.json
+options.txt
+usercache.json
+usernamecache.json
+bendspacks/
+journeymap/
+mputils/
+.ReAuth.cfg
+.mixin.out/
+config/InvTweaks.cfg
+config/splash.properties
+config/jei/worldSettings.cfg
+icon.png
+
+# Logs
+logs/
+*.log
