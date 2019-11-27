@@ -23,19 +23,48 @@
 
 ## Storage
 
-- Iron Chests - !Mod, !Advancements
-- Storage Drawers - !Mod, Advancements
-- Arcane Archives - !Mod, Advancements, ?Tweaks
-- Colossal Chests - !Mod, Advancements, Tweaks
-- Iron Backpacks - !Mod, Advancements
-- /dank/null - !Mod, Advancements, Tweaks
-- Integrated Dynamics & Tunnels - !Mod, Advancements
-- Refined Storage - !Mod, Advancements, Tweaks
-    - Reborn Storage - !Mod, Advancements, Tweaks
-    - Refined Storage Addons - !Mod, Advancements, Tweaks
-- AE2 - !Mod, Advancements, Tweaks
-    - AE2 Stuff - !Mod, Advancements, Tweaks
-    - Wireless Crafting Terminal - !Mod, Advancements, Tweaks
-    - Extra Cells - !Mod, Advancements, Tweaks
-- Translocators - !Mod, Advancements, Tweaks
-- Ender Storage - !Mod, Advancements, Tweaks
+- ! Iron Chests
+    - ! Add advancements
+- ! Storage Drawers
+    - ! Add advancements
+- ! Arcane Archives
+    - Add advancements
+    - Tweak mod to be midgame
+- ! Colossal Chests
+    - Add advancements
+    - Tweak mod to be midgame
+- ! Iron Backpacks
+    - Add advancements
+- ! /dank/null
+    - Add advancements
+    - Tweak mod to be midgame
+- ! Integrated Dynamics & Tunnels
+    - Add advancements
+    - Tweak mod to be midgame
+- ! Refined Storage
+    - Add advancements
+    - Tweak mod to be endgame
+    - ! Reborn Storage
+        - Add advancements
+        - Tweak mod to be endgame
+    - ! Refined Storage Addons
+        - Add advancements
+        - Tweak mod to be endgame
+- AE2
+    - Add advancements
+    - Tweak mod to be endgame
+    - ! AE2 Stuff
+        - Add advancements
+        - Tweak mod to be endgame
+    - ! Wireless Crafting Terminal
+        - Add advancements
+        - Tweak mod to be endgame
+    - ! Extra Cells
+        - Add advancements
+        - Tweak mod to be endgame
+- ! Translocators
+    - Add advancements
+    - Tweak mod to be endgame
+- ! Ender Storage
+    - Add advancements
+    - Tweak mod to be endgame
