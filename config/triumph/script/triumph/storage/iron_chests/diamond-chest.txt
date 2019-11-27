@@ -3,7 +3,7 @@ setTitle("Looks better from the outside")
 setDescription("Open a diamond chest.")
 addParent("triumph:storage/iron_chests/gold-chest")
 alwaysVisible()
-setPos(142,43)
+setPos(132,33)
 setAnnounceToChat(false)
 setShowToast(true)
 

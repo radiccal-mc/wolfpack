@@ -1,9 +1,9 @@
 setIcon(<ironchest:iron_chest:0>)
 setTitle("Iron Age")
 setDescription("Open an iron chest.")
-addParent("triumph:storage/root")
+addParent("triumph:storage/iron_chests/init")
 alwaysVisible()
-setPos(76,43)
+setPos(66,33)
 setAnnounceToChat(false)
 setShowToast(true)
 

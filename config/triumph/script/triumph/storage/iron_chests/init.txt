@@ -5,8 +5,8 @@ setCompletedIconColor(128, 0, 255)
 setCompletedTitleColor(128, 0, 255)
 addParent("triumph:storage/root")
 alwaysVisible()
-setPos(43,43)
+setPos(33,33)
 setAnnounceToChat(false)
 
-// On crafted
+// On Load
 addCriteria("start", "minecraft:location")

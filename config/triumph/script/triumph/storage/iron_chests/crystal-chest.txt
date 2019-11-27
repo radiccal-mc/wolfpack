@@ -3,7 +3,7 @@ setTitle("Privacy Invasion")
 setDescription("Open a crystal chest.")
 addParent("triumph:storage/iron_chests/diamond-chest")
 alwaysVisible()
-setPos(175,76)
+setPos(165,66)
 setAnnounceToChat(false)
 setShowToast(true)
 

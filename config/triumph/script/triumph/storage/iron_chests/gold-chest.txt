@@ -3,7 +3,7 @@ setTitle("King Midas")
 setDescription("Open a gold chest.")
 addParent("triumph:storage/iron_chests/iron-chest")
 alwaysVisible()
-setPos(109,43)
+setPos(99,33)
 setAnnounceToChat(false)
 setShowToast(true)
 
