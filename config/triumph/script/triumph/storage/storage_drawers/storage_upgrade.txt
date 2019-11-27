@@ -1,0 +1,12 @@
+setIcon(<storagedrawers:upgrade_storage:0>)
+setTitle("Better Compression")
+setDescription("Craft a storage upgrade.")
+addParent("triumph:storage/storage_drawers/storage_drawer")
+alwaysVisible()
+setPos(99, -33)
+setAnnounceToChat(false)
+setShowToast(true)
+
+// On crafted
+criteria = addCriteria("crafted", "triumph:player_crafted_item")
+criteria.setItem(<storagedrawers:upgrade_storage>)

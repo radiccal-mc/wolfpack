@@ -1,0 +1,12 @@
+setIcon(<storagedrawers:basicdrawers:2>)
+setTitle("Barrels, reimagined")
+setDescription("Craft a storage drawer.")
+addParent("triumph:storage/storage_drawers/init")
+alwaysVisible()
+setPos(66, -33)
+setAnnounceToChat(false)
+setShowToast(true)
+
+// On crafted
+criteria = addCriteria("crafted", "triumph:player_crafted_item")
+criteria.setItem(<storagedrawers:basicdrawers>)
