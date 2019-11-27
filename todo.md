@@ -1,3 +1,8 @@
+> Items with a ! Prefix are marked as done.
+> Items with a ? Prefix are marked as "I don't know if I need to change anything, but I haven't looked into it yet".
+
+# General
+
 - tweak recipes for progression
 - tweak ore spawn
 - tweak loot
@@ -11,28 +16,10 @@
 - add "Together forever" mod to sync advancements
 - add command that automatically adds all team commands
 - change "right-click" advancements to craft "advancements"
-
-IDEA!
-    - Gate Endgame Stuff
-        :( "From the grounds up" - Can be circumvented with a autocrafter
-    - MOB INVASIONS
-        - "Hostile Worlds - Invasions"
-        - Turrets mod
-    - ECONOMY
-        - Calemi's Utilities for economy and trading
-    - TRANSPORTATION
-        - Simply Loaders for item loaders/unloaders
-        - Signals for signalling
-        - Better Railroads for extra rails
-    - RESOURCES
-        - certain crops can only be grown in certain biomes
-        - needs transportation system
-            - Signals mod for signals
+- replace iron backpacks with improved backpacks
+- add all the stuff from ideas
 
 # Mods
-
-> Items with a ! Prefix are marked as done.
-> Items with a ? Prefix are marked as "I don't know if I need to change anything, but I haven't looked into it yet".
 
 ## Storage
 
