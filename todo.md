@@ -71,43 +71,43 @@
 
 ## Magic
 
-- Botania
+- ! Botania
     - Add advancements
-- Psi
+- ! Psi
     - Add advancements
     - Tweak mod to be midgamish
-- Embers
+- ! Embers
     - Add advancements
-- Roots
+- ! Roots
     - Add advancements
-- Everlasting Abilities
-    - Add advancements
-    - Tweak mod to have realistic exp levels
-- Electroblobs Wizardry
+- ! Electroblobs Wizardry
     - Add advancements
     - Tweak mod to remove spider spell
     - Tweak mod to remove OP game-breaking spells
-- Astral Sorcery
+- ! Astral Sorcery
     - Add advancements
     - ? Tweak to be midgame
-- Reliquary
+- ! Reliquary
     - Add advancements
-- Evil Craft
+- ! Evil Craft
     - Add advancements
     - ? Tweak to be midgame
-- Cyclic
+- ! Cyclic
     - Add advancements
-- Mystical Agriculture
+- ! Mystical Agriculture
     - Add advancements
     - Tweak mod to midgame
     - Tweak mod to have tier 4 & 5 at lategame
-- Thaumcraft
+    - ! Mystical Agriadditions
+        - Add advancements
+        - Tweak plants to be lategame
+- ! Thaumcraft
     - Add advancements
     - ? Tweak to be lategame
-- Thaumic Tinkerer
+- ! Thaumic Tinkerer
     - Add advancements
     - ? Tweak to be lategame
-- Blood Magic
+- ! Blood Magic
     - Add advancements
     - ? Tweak to be lategame
 
