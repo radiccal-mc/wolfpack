@@ -21,3 +21,4 @@ logs/
 *.log
 config/AppliedEnergistics2/VersionChecker.cfg
 patchouli_data.json
+BotaniaVars.dat

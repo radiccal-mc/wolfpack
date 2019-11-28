@@ -113,16 +113,16 @@
 
 ## Tech
 
-- Dimensional World
+- ! Dimensional World
     - Add advancements
-- Building Gadgets
+- ! Building Gadgets
     - Add advancements
-- Actually Additions
+- ! Actually Additions
     - Add advancements
-- Extra Utilities 2
+- ! Extra Utilities 2
     - Add advancements
     - Tweak quarry to be midgame
-- Immersive Engineering
+- ! Immersive Engineering
     - Add advancements
     - ? Immersive Energy
         - Add advancements
@@ -133,70 +133,65 @@
         - Add advancements
     - Industrial Wires
         - Add advancements
-    - Immersive Engineering
-        - Add advancements
-- Magneticraft
+- ! Magneticraft
     - Add advancements
-- Gadgetry
+- ! Gadgetry
     - Add advancements
-- Ranged Pumps
+- ! Ranged Pumps
     - Add advancements
-- RFTools
+- ! RFTools
     - Add advancements
     - Tweak builder to be midgame
-- Project Red
+- ! Project Red
     - Add advancements
-- Thermal Foundation
-    - Add advancements
-    - Tweak mod to be midgame
-- Thermal Expansion
+- ! Thermal Foundation
     - Add advancements
     - Tweak mod to be midgame
-- Thermal Dynamics
+- ! Thermal Expansion
     - Add advancements
     - Tweak mod to be midgame
-- Pneumaticcraft
+- ! Thermal Dynamics
+    - Add advancements
+    - Tweak mod to be midgame
+- ! Pneumaticcraft
     - Add advancements
     - ? Tweak mod to be midgame
-- Dark Utilities
+- ! Dark Utilities
     - Add advancements
     - Tweak mod to be midgame
-- Mob Grinding Utils
-    - Add advancements
-    - Tweak mod to be midgame
-- Tech Reborn
+- ! Tech Reborn
     - Add advancements
     - ? Tweak mod to be midgame
-- Deep Mob Learning
+- ! Deep Mob Learning
     - Add advancements
-- Industrial Foregoing
+- ! Industrial Foregoing
     - Add advancements
     - Tweak mod to be mid- to lategame
     - Integration Foregoing
         - Add advancements
-- Mekanism
+- ! Mekanism
     - Add advancements
     - Tweak mod to be midgamish
     - Mekanism Generators
         - Add advancements
     - Mekanism Tools
         - Add advancements
-- Extreme Reactors
+- ! Extreme Reactors
     - Add advancements
     - ? Tweak mod to be lategame
-- Nuclearcraft
+- ! Nuclearcraft
     - Add advancements
     - ? Tweak mod to be lategame
-- Matter Overdrive
+- ! Matter Overdrive
     - Add advancements
     - ? Tweak mod to lategame
-- Ender IO
+- ! Ender IO
     - Add advancements
     - Tweak mod to be lategame
     - Gas Conduits
-- Environmental Tech
+- ! Environmental Tech
     - Add advancements
     - Tweak mod to be lategame
-- Advanced Rocketry
+- ! Advanced Rocketry
     - Add advancements
     - Tweak mod to be lategame
