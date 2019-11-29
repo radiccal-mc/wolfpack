@@ -195,3 +195,17 @@
 - ! Advanced Rocketry
     - Add advancements
     - Tweak mod to be lategame
+
+# Food
+
+- ! Cooking for Blockheads
+    - Add advancements
+- ! Vanilla Foot Pantry
+    - ? Add advancements
+
+# RPG
+
+- ! Twilight Forest
+    - Add advancements
+- ! Atum
+    - Add advancements
