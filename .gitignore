@@ -22,3 +22,6 @@ logs/
 config/AppliedEnergistics2/VersionChecker.cfg
 patchouli_data.json
 BotaniaVars.dat
+config/AppliedEnergistics2/CustomRecipes.cfg
+config/AppliedEnergistics2/items.csv
+config/astralsorcery/amulet_enchantments.cfg
