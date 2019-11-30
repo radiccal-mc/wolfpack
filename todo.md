@@ -5,6 +5,7 @@
 
 - tweak recipes for progression
 - tweak ore spawn
+- tweak bedrock ore spawn
 - tweak loot
 - custom main menu & custom backgrounds
 - edit issue tracker, changelogs, etc.
@@ -122,6 +123,9 @@
 - ! Extra Utilities 2
     - Add advancements
     - Tweak quarry to be midgame
+- ! Bedrock Ores
+    - Add advancements
+    - Tweak quarry to be midgamish
 - ! Immersive Engineering
     - Add advancements
     - ? Immersive Energy
