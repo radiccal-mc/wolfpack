@@ -12,7 +12,7 @@ setDescription("Craft a chest")
 addParent("triumph:example/root")
 
 //Set the position
-setPos(57,17)
+setPos(58,18)
 
 //Hide the connection lines, so I can have a pretty shape
 hideLines()

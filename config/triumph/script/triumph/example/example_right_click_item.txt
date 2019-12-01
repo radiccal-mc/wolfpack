@@ -12,7 +12,7 @@ setDescription("Right click with a diamond")
 addParent("triumph:example/root")
 
 //Set the position
-setPos(172,41)
+setPos(173,41)
 
 //Hide the connection lines, so I can have a pretty shape
 hideLines()

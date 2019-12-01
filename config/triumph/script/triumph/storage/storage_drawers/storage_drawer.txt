@@ -3,7 +3,7 @@ setTitle("Barrels, reimagined")
 setDescription("Craft a storage drawer.")
 addParent("triumph:storage/storage_drawers/init")
 alwaysVisible()
-setPos(66, -33)
+setPos(69,-33)
 setAnnounceToChat(false)
 setShowToast(true)
 
